@@ -1,2 +1,2 @@
 # NotesApp
-Notes App for Apple Watch
+Notes App for Apple Watch.
